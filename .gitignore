@@ -1,0 +1,14 @@
+# Check with git check-ignore -v **/*
+
+# Exclude.
+.*
+
+# Include.
+!**/.*ignore
+!**/.*rc
+!**/.*rc.js
+!**/.*config
+!**/.datalayer
+!**/.github
+!**/.storybook
+!**/.vscode
