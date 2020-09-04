@@ -4,7 +4,7 @@
 
 > WIP this aims to re-implement [kuber-go](https://github.com/datalayer-attic/kuber-go) in Python.
 
-⛵️ ⚓️ Kuber is a tool to create, manage and share Kubernetes clusters (see [kuber-go](https://github.com/datalayer-attic/kuber-go) for a deprecated implementation).
+⛵️ ⚓️ Kuber is a tool to create, manage and share Kubernetes clusters.
 
 - Create (or enroll) K8S clusters.
 - Backup and and disaster recovery for K8S clusters.
