@@ -4,6 +4,10 @@
 
 > Kuber, create, manage and share Kubernetes clusters.
 
+This aims to re-implement [kuber-go](https://github.com/datalayer-attic/kuber-go) in Python.
+
+Kuber will support:
+
 - Create (or enroll) K8S clusters.
 - Backup and and disaster recovery for K8S clusters.
 - Autoscale workers.
@@ -11,8 +15,6 @@
 - Terraform manager.
 - Cerberus manager.
 - Conformance check and alerting.
-
-> WIP this aims to re-implement [kuber-go](https://github.com/datalayer-attic/kuber-go) in Python.
 
 <!--
 Read more on the [Kuber Website](https://kuber.sh).
